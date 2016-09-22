@@ -1,4 +1,6 @@
-Name:
+Name: Jimmy Chung
+Compiled Succesfully
+Test ran succesfully returned 0
 
 Compilation and Run Successful:
 
